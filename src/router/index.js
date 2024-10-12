@@ -2,6 +2,12 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import HomeView from "../views/HomeView.vue";
 
+// import { message } from 'main-modules';
+// console.log('a -->', message)
+// import a from "main-modules";
+// const a = require('./main-modules')
+// console.log('a -->', a)
+
 Vue.use(VueRouter);
 
 const routes = [
