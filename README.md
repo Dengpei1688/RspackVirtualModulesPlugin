@@ -1,0 +1,2 @@
+# RspackVirtualModulesPlugin
+验证基于rsbuild搭建自定义插件RspackVirtualModulesPlugin
